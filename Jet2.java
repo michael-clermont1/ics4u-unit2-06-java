@@ -26,7 +26,7 @@ public class Jet2 extends Airplane {
      *
      * @param speed - Speed
      */
-    public void setSpeed(int speed) {
+    public void setSpeed(final int speed) {
         super.setSpeed(speed * MULTIPLIER);
     }
 
