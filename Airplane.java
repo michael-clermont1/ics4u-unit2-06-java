@@ -21,7 +21,7 @@ public class Airplane {
     /**
      * SetSpeed() Function.
      *
-     * @param speed - speed
+     * @param speeds - speeds
      */
     public void setSpeed(final int speeds) {
         this.speed = speeds;
